@@ -1,7 +1,8 @@
-# CNN Animal Classification Project
+# 🐾 CNN Animal Classification Project
 
-## Description
-This project implements a CNN to classify images of animals It was developed for Image processing course
+## 📝 Description
+This project implements a **CNN** to classify images of animals.
+It was developed for an **Image Processing** course at UJ.
 
-## Kaggle Notebook
-[https://www.kaggle.com/code/bandarai/cnn-animal-classification](https://www.kaggle.com/code/bandarai/cnn-animal-classification)
+## 🔗 Kaggle Notebook
+👉 [View the Kaggle Notebook](https://www.kaggle.com/code/bandarai/cnn-animal-classification)
